@@ -273,12 +273,12 @@
         <use xlink:href='#frame0_SVGID_49_' style='overflow:visible;' id='frame0_use303'/>
       </clipPath>
       <defs id='frame0_defs305'>
-        <filter id='frame0_Adobe_OpacityMaskFilter_6_' filterUnits='userSpaceOnUse' x='9.3378906' y='35.1376953' width='13.1040039' height='6.75'>
+        <filter id='frame0_filterUnits='userSpaceOnUse' x='9.3378906' y='35.1376953' width='13.1040039' height='6.75'>
           <feColorMatrix type='matrix' values='1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0' id='frame0_feColorMatrix308'/>
         </filter>
       </defs>
       <mask maskUnits='userSpaceOnUse' x='9.3378906' y='35.1376953' width='13.1040039' height='6.75' id='frame0_SVGID_51_'>
-        <g style='filter:url(#frame0_Adobe_OpacityMaskFilter_6_);' id='frame0_g311'>
+        <g style='filter:url(#frame0_6_);' id='frame0_g311'>
           <linearGradient id='frame0_SVGID_52_' gradientUnits='userSpaceOnUse' x1='1.2265625' y1='64.8447266' x2='2.2265625' y2='64.8447266' gradientTransform='matrix(0 -6.75 -6.75 0 453.59375 50.1679688)'>
             <stop offset='0' style='stop-color:#000000' id='frame0_stop314'/>
             <stop offset='0.224771' style='stop-color:#666666' id='frame0_stop316'/>
@@ -302,7 +302,7 @@
         <use xlink:href='#frame0_SVGID_54_' style='overflow:visible;' id='frame0_use337'/>
       </clipPath>
       <defs id='frame0_defs339'>
-        <filter id='frame0_Adobe_OpacityMaskFilter_7_' filterUnits='userSpaceOnUse' x='41.359375' y='33.4072266' width='12.2792969' height='7.0019531'>
+        <filter id='frame0_' filterUnits='userSpaceOnUse' x='41.359375' y='33.4072266' width='12.2792969' height='7.0019531'>
           <feColorMatrix type='matrix' values='1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0' id='frame0_feColorMatrix342'/>
         </filter>
       </defs>
@@ -350,7 +350,7 @@
         </filter>
       </defs>
       <mask maskUnits='userSpaceOnUse' x='31.128418' y='11.5673828' width='10.7250977' height='10.4150391' id='frame0_SVGID_64_'>
-        <g style='filter:url(#frame0_Adobe_OpacityMaskFilter_8_);' id='frame0_g396'>
+        <g style='filter:url(#frame0_8_);' id='frame0_g396'>
           <radialGradient id='frame0_SVGID_65_' cx='0.2905273' cy='65.7382813' r='1' gradientTransform='matrix(-1.7209114 0.3389712 -0.2370948 -1.743934 52.0199661 131.1564941)' gradientUnits='userSpaceOnUse'>
             <stop offset='0' style='stop-color:#FFFFFF' id='frame0_stop399'/>
             <stop offset='0.7' style='stop-color:#FFFFFF' id='frame0_stop401'/>
